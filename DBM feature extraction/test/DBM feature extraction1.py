@@ -147,7 +147,7 @@ if select_case==1:
                  momentum=0.4,
                  use_for='classification',
                  bp_algorithm='rmsp',
-                 epochs=3000,
+                 epochs=4000,
                  batch_size=32,
                  #dropout=0.09,
                  units_type=['gauss','bin'],
